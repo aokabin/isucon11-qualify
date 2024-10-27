@@ -25,7 +25,7 @@
 
 - name: "roles/contestant/tasks/isucondition: Include isucondition-go.yml"
   include: isucondition-go.yml
-- name: "roles/contestant/tasks/isucondition: Include isucondition-nodejs.yml"
+# - name: "roles/contestant/tasks/isucondition: Include isucondition-nodejs.yml"
 #   include: isucondition-nodejs.yml
 # - name: "roles/contestant/tasks/isucondition: Include isucondition-perl.yml"
 #   include: isucondition-perl.yml
@@ -33,7 +33,7 @@
 #   include: isucondition-php.yml
 - name: "roles/contestant/tasks/isucondition: Include isucondition-python.yml"
   include: isucondition-python.yml
-- name: "roles/contestant/tasks/isucondition: Include isucondition-ruby.yml"
+# - name: "roles/contestant/tasks/isucondition: Include isucondition-ruby.yml"
 #   include: isucondition-ruby.yml
 # - name: "roles/contestant/tasks/isucondition: Include isucondition-rust.yml"
 #   include: isucondition-rust.yml
